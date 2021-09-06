@@ -18,7 +18,7 @@ namespace Vehicle
         }
         public static void brake()
         {
-            Console.WriteLine("new message added");
+            Console.WriteLine("Breaking");
         }
         static void Main(string[] args)
         {
